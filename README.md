@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -18,6 +19,17 @@
     <link as="script" href="https://assets-cdn.github.com/assets/frameworks-149d9338c2665172870825c78fa48fdcca4d431d067cbf5fda7120d9e39cc738.js" rel="preload" />
     
     <link as="script" href="https://assets-cdn.github.com/assets/github-a6cf0d49bc27a901349d1c50564a8c1856596b0b405e3b35b3747719f1038aa5.js" rel="preload" />
+=======
+# [Vezzen site](http://vezzen.com/) 
+
+
+## Main
+Portolfio for art and music by Vezzen
+
+
+## Creator
+Uses CREATIVE theme from Start Bootstrap:
+>>>>>>> f7a5446227d7d66b277a6d26c6059bd137a38aae
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Content-Language" content="en">
@@ -733,3 +745,7 @@
   </body>
 </html>
 
+<<<<<<< HEAD
+=======
+Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-creative/blob/gh-pages/LICENSE) license.
+>>>>>>> f7a5446227d7d66b277a6d26c6059bd137a38aae
